@@ -1,4 +1,5 @@
 Form Handler App
+
 A simple React app to collect user information via a form and display the submitted data.
 
 Features
